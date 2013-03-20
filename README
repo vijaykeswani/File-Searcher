@@ -1,0 +1,7 @@
+A python script that asks for pattern to be matched and regular expression and returns info all files matching it.
+
+How to use it:
+1. Create a file containing queries and regular expressions.
+   Each line contains a string to be matched and a regular expression separated by a space.
+
+2. Run it as : python file_searcher.py <directory_to_be_searched> <query_file>
